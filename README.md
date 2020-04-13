@@ -1,3 +1,6 @@
+# Do not clone this repository if you're not absolutely sure what you're doing.
+# This is not the official marlin build.
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
